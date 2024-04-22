@@ -25,7 +25,7 @@ export default function Home() {
     <div className="text-center mt-8">
       <div className="relativ flex justify-center items-center">
         <Image
-          src="/check2.png" // 替换为你的图片路径
+          src="/check.png" // 替换为你的图片路径
           width={100} // 调整图片宽度
           height={100} // 调整图片高度
           alt="描述图片内容"
