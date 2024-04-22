@@ -41,14 +41,14 @@ export default function Home() {
         <tbody>
           <tr>
             <td className="px-4 py-2 border-r border-b border-transparent">订单号</td>
-            <td className="px-4 py-2 text-right font-bold border-b border-transparent">12345678</td>
+            <td className="px-4 py-2 text-right font-bold border-b border-transparent">1234567890</td>
           </tr>
           <tr>
             <td className="px-4 py-2 border-r border-b border-transparent">充值号码</td>
-            <td className="px-4 py-2 text-right font-bold border-b border-transparent">123456789</td>
+            <td className="px-4 py-2 text-right font-bold border-b border-transparent">13800008888</td>
           </tr>
           <tr>
-            <td className="px-4 py-2 border-r border-b border-transparent">充值金额</td>
+            <td className="px-4 py-2 border-r border-b border-transparent">支付金额</td>
             <td className="px-4 py-2 text-right font-bold border-b border-transparent">100元</td>
           </tr>
           <tr>
@@ -56,7 +56,7 @@ export default function Home() {
             <td className="px-4 py-2 text-right font-bold border-b border-transparent">100元</td>
           </tr>
           <tr>
-            <td className="px-4 py-2 border-r border-b border-transparent">充值时间</td>
+            <td className="px-4 py-2 border-r border-b border-transparent">到账时间</td>
             <td className="px-4 py-2 text-right font-bold border-b border-transparent">2022-01-01 12:00:00</td>
           </tr>
         </tbody>
